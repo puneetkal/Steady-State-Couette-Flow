@@ -1,3 +1,7 @@
+
+![Uploading Laminar_shear.svg.png…]()
+
+
 Steady-state Couette flow refers to the flow of a viscous, incompressible fluid between two parallel plates, where one plate is stationary, and the other is moving at a constant velocity. The flow is driven solely by the motion of the moving plate, without any applied pressure gradient.
 
 Key Characteristics:
